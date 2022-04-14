@@ -10,7 +10,7 @@ public class WelcomeController {
      * This is the home page
      * @return
      */
-    @GetMapping("/")
+    @GetMapping("/w")
     public String welcome () {
         return "Welcome";
     }
