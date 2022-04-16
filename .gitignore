@@ -6,3 +6,10 @@
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+bin/
+.project
+target/
+target/*
+.mvn
+.settings/
+.classpath
